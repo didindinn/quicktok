@@ -1,12 +1,12 @@
 {
   "name": "quicktok",
   "version": "1.0.0",
-    "engines": {
-    "node": "12.x"
-  }
   "description": "TikTok trending viewer",
   "author": "Adrián",
   "private": true,
+  "engines": {
+    "node": "12.x"
+  }
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
