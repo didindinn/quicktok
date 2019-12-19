@@ -2,7 +2,7 @@
   "name": "quicktok",
   "version": "1.0.0",
    "engines": {
-    "node": "9.x"
+    "node": "8.x"
   },
   "description": "TikTok trending viewer",
   "author": "Adrián",
